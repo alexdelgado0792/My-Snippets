@@ -7,8 +7,8 @@
 | [AppSettings](https://gist.github.com/alexdelgado0792/54652bb629c8e6c570023cdc9e3e4f68) | .Net |
 | [Enum resource utilery](https://gist.github.com/alexdelgado0792/d9d39cfba3d4633ef157b1603f5469b0) | .Net |
 | [Spring.Net Nhibernate Envers Configuration](https://gist.github.com/alexdelgado0792/d964fb148df0869443a05be3ebc266cd) | .Net |
-| [Cryptography](https://gist.github.com/alexdelgado0792/) | .Net |
-| [Execute Azure WebJob](https://gist.github.com/alexdelgado0792/) | .Net |
+| [Cryptography](https://gist.github.com/alexdelgado0792/12a7b5eaa8683d04cc900890c98413ae) | .Net |
+| [Execute Azure WebJob](https://gist.github.com/alexdelgado0792/61e0622a469ca0a2a3c48cad484f9652) | .Net |
 | [Image utilery](https://gist.github.com/alexdelgado0792/) | .Net |
 | [Boostrap 3 Modal](https://gist.github.com/alexdelgado0792/) | HTML / CSS / JS |
 | [Credit Card utilery](https://gist.github.com/alexdelgado0792/) | .Net |
