@@ -14,5 +14,5 @@
 | [Credit Card utilery](https://gist.github.com/alexdelgado0792/) | .Net |
 | [.Net utilery](https://gist.github.com/alexdelgado0792/) | .Net |
 | [Regex utilery](https://gist.github.com/alexdelgado0792/) | .Net |
-| [Rest Client](https://gist.github.com/alexdelgado0792/) | .Net |
+| [Rest Client](https://gist.github.com/alexdelgado0792/ "Private no link") | .Net |
 | [String utilery](https://gist.github.com/alexdelgado0792/) | .Net |
