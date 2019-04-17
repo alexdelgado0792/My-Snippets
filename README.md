@@ -10,3 +10,9 @@
 | [Cryptography](https://gist.github.com/alexdelgado0792/) | .Net |
 | [Execute Azure WebJob](https://gist.github.com/alexdelgado0792/) | .Net |
 | [Image utilery](https://gist.github.com/alexdelgado0792/) | .Net |
+| [Boostrap 3 Modal](https://gist.github.com/alexdelgado0792/) | HTML / CSS / JS |
+| [Credit Card utilery](https://gist.github.com/alexdelgado0792/) | .Net |
+| [.Net utilery](https://gist.github.com/alexdelgado0792/) | .Net |
+| [Regex utilery](https://gist.github.com/alexdelgado0792/) | .Net |
+| [Rest Client](https://gist.github.com/alexdelgado0792/) | .Net |
+| [String utilery](https://gist.github.com/alexdelgado0792/) | .Net |
