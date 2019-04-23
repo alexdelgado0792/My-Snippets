@@ -18,3 +18,4 @@
 | [String utilery](https://gist.github.com/alexdelgado0792/adfd21d30c1016418dcf1202b7aa62cd) | .Net |
 | [Temperature convertion](https://gist.github.com/alexdelgado0792/661d05ac7a6c8a64ce9fe127203f3e0a) | .Net |
 | [TimeZone convertion NodeTime API](https://gist.github.com/alexdelgado0792/1be19aa66e17f99b860531bdb4fed755) | .Net |
+| [QR Code generator  with QR Coder Library](https://gist.github.com/alexdelgado0792/5e5ec414fed8b2e8e853d48f2c5c56d9) | .Net |
