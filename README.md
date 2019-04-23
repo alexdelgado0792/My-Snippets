@@ -17,3 +17,4 @@
 | [Rest Client](https://gist.github.com/alexdelgado0792/ "Private no link") | .Net |
 | [String utilery](https://gist.github.com/alexdelgado0792/adfd21d30c1016418dcf1202b7aa62cd) | .Net |
 | [Temperature convertion](https://gist.github.com/alexdelgado0792/661d05ac7a6c8a64ce9fe127203f3e0a) | .Net |
+| [TimeZone convertion NodeTime API](https://gist.github.com/alexdelgado0792/1be19aa66e17f99b860531bdb4fed755) | .Net |
