@@ -20,4 +20,4 @@
 | [TimeZone convertion NodeTime API](https://gist.github.com/alexdelgado0792/1be19aa66e17f99b860531bdb4fed755) | .Net |
 | [QR Code generator  with QR Coder Library](https://gist.github.com/alexdelgado0792/5e5ec414fed8b2e8e853d48f2c5c56d9) | .Net |
 | [Lite DB API](https://gist.github.com/alexdelgado0792/ae2010851ff8d6203636ced01c4428e8) | .Net |
-| [Azure storage helper classes](https://gist.github.com/alexdelgado0792/33a86399d8acc2d975f5186f0fbcf44c)  [[Project Repo]](https://github.com/alexdelgado0792/AzureStorageDemo) | .Net |
+| [Azure storage helper classes](https://gist.github.com/alexdelgado0792/33a86399d8acc2d975f5186f0fbcf44c)  [[Project Repo]](https://github.com/alexdelgado0792/AzureStorageDemo) [Blob](https://github.com/alexdelgado0792/AzureStorageDemo/tree/master/Prototypes/BlobExplorer)/[File](https://github.com/alexdelgado0792/AzureStorageDemo/tree/master/Prototypes/FileExplorer)/[Table](https://github.com/alexdelgado0792/AzureStorageDemo/tree/master/Prototypes/TableExplorer)/[Queue](https://github.com/alexdelgado0792/AzureStorageDemo/tree/master/Prototypes/TableExplorer)| .Net |
