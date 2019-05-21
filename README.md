@@ -22,3 +22,4 @@
 | [Lite DB API](https://gist.github.com/alexdelgado0792/ae2010851ff8d6203636ced01c4428e8) | .Net |
 | [Azure storage helper classes](https://gist.github.com/alexdelgado0792/33a86399d8acc2d975f5186f0fbcf44c)  [[Project Repo]](https://github.com/alexdelgado0792/AzureStorageDemo) [Blob](https://github.com/alexdelgado0792/AzureStorageDemo/tree/master/Prototypes/BlobExplorer)/[File](https://github.com/alexdelgado0792/AzureStorageDemo/tree/master/Prototypes/FileExplorer)/[Table](https://github.com/alexdelgado0792/AzureStorageDemo/tree/master/Prototypes/TableExplorer)/[Queue](https://github.com/alexdelgado0792/AzureStorageDemo/tree/master/Prototypes/TableExplorer)| .Net |
 | [SendGrid Email API Implementation](https://gist.github.com/alexdelgado0792/e0b28237632c752ac07ce278d2981f3e) | .Net |
+| [WinSCP File transfer to SFTP snippet](https://gist.github.com/alexdelgado0792/9f3d7aabef8940c78ce682993d32dd70) | .Net |
