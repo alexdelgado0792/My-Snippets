@@ -24,3 +24,4 @@
 | [SendGrid Email API Implementation](https://gist.github.com/alexdelgado0792/e0b28237632c752ac07ce278d2981f3e) | .Net |
 | [WinSCP File transfer to SFTP snippet](https://gist.github.com/alexdelgado0792/9f3d7aabef8940c78ce682993d32dd70) | .Net |
 | [Facebook Graph API Authorization](https://gist.github.com/alexdelgado0792/9d8283f16f4b49a3a591a243768521c9) | .Net |
+| [Dictionary to Object and Object to Dictionary util](https://gist.github.com/alexdelgado0792/6facdf745e1a49a1d6ce222f27ae6f06)| .Net |
